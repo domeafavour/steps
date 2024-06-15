@@ -1,0 +1,23 @@
+{
+  "name": "steps",
+  "version": "0.0.0",
+  "description": "Fullstack project for managing tasks with timers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domeafavour/steps.git"
+  },
+  "keywords": [
+    "node",
+    "vite",
+    "react",
+    "fullstack"
+  ],
+  "author": "domeafavour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domeafavour/steps/issues"
+  },
+  "homepage": "https://github.com/domeafavour/steps#readme"
+}
